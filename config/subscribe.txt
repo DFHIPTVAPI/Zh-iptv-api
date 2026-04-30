@@ -2,7 +2,6 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
@@ -48,7 +47,6 @@ https://gongdian.top/tv/ku9/webview.txt#JS=https://gongdian.top/tv/ku9/js/webvie
 https://cloud.7so.top/f/volzIA/LiTV.m3u
 https://cloud.7so.top/f/xv80ux/天浪.txt
 https://cloud.7so.top/f/yr7BHL/HKTV.txt
-https://cloud.7so.top/f/Bgw1H8/大改.txt
 https://tmxk.pp.ua/smart-cn.m3u
 https://tmxk.pp.ua/iptv-cn.m3u
 https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
@@ -63,13 +61,13 @@ http://iptv.4666888.xyz/FYTV.txt
 https://d.kstore.dev/download/12441/ds9.txt
 https://d.kstore.dev/download/11344/yunduan.txt
 https://dsj-1312694395.cos.ap-guangzhou.myqcloud.com/dsj10.1.txt
-https://ds65.tv1288.xyz
 http://rihou.cc:555/gggg.nzk
 http://west.shaonv.me/tvbox/live.txt
 https://pan.vma.cc/pan/down.php/350735607a786faaaa69aa5bbe3a3078.txt
 https://5266.kstore.space/xiangxichuanshuo.txt
 
-
+# https://cloud.7so.top/f/Bgw1H8/大改.txt
+# https://ds65.tv1288.xyz
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
