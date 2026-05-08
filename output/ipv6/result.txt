@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-04 09:42:52,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+2026-05-08 15:08:17,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 
 📺央视频道,#genre#
 
@@ -82,5 +82,3 @@
 🎬电影频道,#genre#
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
 经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-9.ctv
-
-🎥咪咕直播,#genre#
