@@ -4,6 +4,8 @@
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 # https://cloud.7so.top/f/Bgw1H8/大改.txt
 # https://ds65.tv1288.xyz
+# http://210.245.166.84:1299/live/live1.txt
+# http://210.245.166.84:1299/live/live.txt
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
@@ -30,10 +32,8 @@ https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
 https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt
-https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
 https://raw.githubusercontent.com/nianxinmj/nxpz/refs/heads/main/lib/live.txt
 https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt
-https://raw.githubusercontent.com/xmbjm/IPTV/master/output/user_result.m3u
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u
 https://raw.githubusercontent.com/hujingguang/ChinaIPTV/refs/heads/main/cnTV_AutoUpdate.m3u8
@@ -51,7 +51,6 @@ https://cloud.7so.top/f/xv80ux/天浪.txt
 https://cloud.7so.top/f/yr7BHL/HKTV.txt
 https://tmxk.pp.ua/smart-cn.m3u
 https://tmxk.pp.ua/iptv-cn.m3u
-https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
 https://live.hacks.tools/tv/iptv4.txt
 https://live.zbds.top/tv/iptv4.txt
 http://1.94.31.214/live/live9/dgtv.txt
@@ -66,8 +65,9 @@ http://west.shaonv.me/tvbox/live.txt
 https://pan.vma.cc/pan/down.php/350735607a786faaaa69aa5bbe3a3078.txt
 https://5266.kstore.space/xiangxichuanshuo.txt
 
-# http://210.245.166.84:1299/live/live1.txt
-# http://210.245.166.84:1299/live/live.txt
+# https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
+# https://raw.githubusercontent.com/xmbjm/IPTV/master/output/user_result.m3u
+# https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
