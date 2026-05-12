@@ -1165,9 +1165,6 @@ NOWæå½±,https://iptv.707626.xyz/ch/d435662d54b451d96cdb1bc534b4de82/mast
 POPCçµå½±,https://iptv.707626.xyz/ch/daeefde9dc8798b55bca340479357ebf/master.m3u8
 å¤©æ é¢é,http://o11.163189.xyz/stream/live/typd/
 å¤©æ ç»å¸,http://o11.163189.xyz/stream/live/ccm/
-æç©ºå«è§#http://rihou.cc:555/tv/æç©ºå«è§
-æç©ºå«è§,http://xhyx.gz.cn:1698/hls/35/index.m3u8$å¹¿ä¸/æ­é³/çµä¿¡
-æç©ºå½é
 å½±è¿·æ°ä½çµå½±,http://rihou.cc:555/tv/å½±è¿·æ°ä½çµå½±
 ä¸æ£®çµå½±,http://rihou.cc:555/tv/ä¸æ£®çµå½± 
 ä¸æ£®æ´ç,http://rihou.cc:555/tv/ä¸æ£®æ´ç 
@@ -1187,7 +1184,6 @@ POPCçµå½±,https://iptv.707626.xyz/ch/daeefde9dc8798b55bca340479357ebf/mas
 AXNTaiwan   
 CINEMAX 
 ROCK Action,http://iptv.4666888.xyz/iptv2A.php?id=50
-CCTV6 
 1905æµéå²æ,https://cdn.jdshipin.com/1905.php
 1905ç¯çç»å¸,http://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5
 å¤å°çµå½±,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$å¹¿è¥¿/èé
@@ -1298,6 +1294,7 @@ Bread TV,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 ä¸æ£®æ°é»,http://rihou.cc:555/tv/ä¸æ£®æ°é»
 ä¸æ£®ç¾æ´²,http://udnhls.skilldns.com:80/dsxw.m3u8
 TVBS#http://rihou.cc:555/tv/TVBS1
+TVBS NEWS,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
 TVBSæ°é»,http://rihou.cc:555/tv/[FY]tvbSæ°é»
 TVBSäºæ´² 
 éæ°é»,http://rihou.cc:555/tv/éæ°é»
